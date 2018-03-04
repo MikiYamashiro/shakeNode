@@ -1,0 +1,6 @@
+[submodule "fbm"]
+	path = fbm
+	url = https://github.com/sol-ansano-kim/fbm.git
+[submodule "excons"]
+	path = excons
+	url = https://github.com/gatgui/excons.git
